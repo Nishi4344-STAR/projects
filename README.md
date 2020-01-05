@@ -1,2 +1,2 @@
-# projects
-flappy bird and rest of the projects
+# p5.play-boilerplate
+Boiler plate for p5.play
